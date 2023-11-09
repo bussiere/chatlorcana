@@ -1,0 +1,22 @@
+
+characters (53)
+        3  	Archimedes - Highly Educated Owl 	amethyst
+		4  	Cheshire Cat - Not All There 	emerald
+		4  	Flynn Rider - Charming Rogue 	emerald
+		3  	Genie - On the Job 	emerald
+		4  	Hans - Scheming Prince 	emerald
+		3  	Jasper - Common Crook 	emerald
+		2  	John Silver - Alien Pirate 	emerald
+		4  	Kuzco - Temperamental Emperor 	emerald
+		4  	Mad Hatter - Gracious Host 	emerald
+		4  	Maleficent - Sorceress 	amethyst
+		3  	Megara - Pulling the Strings 	emerald
+		3  	Mother Gothel - Selfish Manipulator 	emerald
+		1  	Olaf - Friendly Snowman 	amethyst
+		4  	Pascal - Rapunzel's Companion 	amethyst
+		3  	Rafiki - Mysterious Sage 	amethyst
+		4  	Tinker Bell - Most Helpful 	emerald
+	
+songs (7)	
+4  	Friends On The Other Side 	amethyst
+3  	Mother Knows Best   emerald
