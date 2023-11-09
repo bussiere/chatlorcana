@@ -1,0 +1,77 @@
+ songs (12)
+5
+	4  	A Whole New World 	
+steel
+	$9.98 	
+2
+	4  	Be Our Guest 	
+amber
+	$0.17 	
+5
+	4  	Grab Your Sword 	
+steel
+	$2.52 	
+characters (42)
+3
+	4  	Ariel - Spectacular Singer 	
+amber
+	$5.15 	
+5
+	2  	Beast - Hardheaded 	
+steel
+	$0.21 	
+1
+	4  	Captain Hook - Forceful Duelist 	
+steel
+	$0.11 	
+5
+	1  	Captain Hook - Thinking a Happy Thought 	
+steel
+	$1.28 	
+4
+	2  	Hades - Lord of the Underworld 	
+amber
+	$1.11 	
+4
+	1  	Hans - Thirteenth in Line 	
+steel
+	$3.02 	
+4
+	4  	Rapunzel - Gifted with Healing 	
+amber
+	$50.06 	
+1
+	4  	Simba - Future King 	
+steel
+	$0.26 	
+2
+	4  	Simba - Protective Cub 	
+amber
+	$0.46 	
+7
+	4  	Stitch - Carefree Surfer 	
+amber
+	$30.94 	
+1
+	4  	Stitch - New Dog 	
+amber
+	$0.12 	
+6
+	4  	Stitch - Rock Star 	
+amber
+	$8.23 	
+6
+	4  	Tinker Bell - Giant Fairy 	
+steel
+	$13.28 	
+items (4)
+2
+	4  	Lantern 	
+amber
+	$4.05 	
+actions (2)
+3
+	2  	Smash 	
+steel
+	$0.27 	
+Buy this deck
